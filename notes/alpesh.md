@@ -12,8 +12,8 @@ My primary interest in joining the program is to investigate how the current pro
 
 ### Updates
 I'll aim to update my progress on a fortnightly basis:
-Week[1]:
-Week[2-3]:
+Week[1]: https://hackmd.io/w5Ga2H5IQX69Cd4F_4KFeQ?both
+Week[2-3]: 
 Week[4-5]:
 Week[6-7]:
 Week[7-8]:
