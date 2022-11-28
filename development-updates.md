@@ -124,7 +124,7 @@ Development updates from [`AnthonyMadia`](https://github.com/AnthonyMadia)
 
 ## Alpesh
 
-Development updates from ['Alpesh'](https://github.com/abhudia04)
+Development updates from [`Alpesh`](https://github.com/abhudia04)
 
 ### Update 1
 [Link to Update 1](https://hackmd.io/@alpesh/SyTasizro)
